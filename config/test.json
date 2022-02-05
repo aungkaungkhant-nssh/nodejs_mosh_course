@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"",
+    "db":"mongodb://localhost/nodejs_movieApi_test"
+}
